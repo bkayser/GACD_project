@@ -1,0 +1,4 @@
+*.zip
+.Rhistory
+UCI HAR Dataset/
+summary.txt
